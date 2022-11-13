@@ -12,7 +12,7 @@ public class Main
 
 		String pickedWord = pickWord(dictionary);
 
-		System.out.println(pickedWord);
+		// System.out.println(pickedWord);
 
 		playGame(pickedWord);
 	}
